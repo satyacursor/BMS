@@ -1,0 +1,6 @@
+{
+  "name": "EC Farm Pro",
+  "description": "EC Farm Pro - Boiler Management System: Mobile-first comprehensive poultry management platform for Environment Controlled sheds, batches, feed, vaccination, bird sales, inventory, finance, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
